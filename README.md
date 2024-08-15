@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **profbonadio/profbonadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Meu nome é Claudinei
@@ -12,4 +11,5 @@ Você pode entrar em contato comigo 📫
 claudineibonadio@prof.educacao.sp.gov.br
 :
 
-![](link)
+
+
