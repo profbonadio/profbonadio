@@ -10,6 +10,6 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 Você pode entrar em contato comigo 📫
 claudineibonadio@prof.educacao.sp.gov.br
 
-![](link)https://tenor.com/pt-PT/view/homero-indiferente-simpsons-indifferent-homer-gif-16155511
+![](https://tenor.com/pt-PT/view/homero-indiferente-simpsons-indifferent-homer-gif-16155511)
 
 
